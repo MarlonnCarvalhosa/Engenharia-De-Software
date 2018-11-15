@@ -2,7 +2,7 @@
 
 ### Introdução
 
-O  * **Kanban** * é uma metodologia de origem japonesa feita pela empresa de automóveis *Toyota*, se originou inicialmente como uma ferramenta do sistema Just in Time que tem como objetivo principal a diminuição de custos através da redução dos desperdícios nos processos de fabricação/desenvolvimento de um produto.
+O  * **Kanban** * é uma metodologia de origem japonesa feita pela empresa de automóveis *Toyota*, se originou inicialmente como uma ferramenta do sistema Just in Time. Tem como objetivo principal a diminuição de custos através da redução dos desperdícios nos processos de fabricação/desenvolvimento de um produto.
 
 ### Desenvolvimento
 
