@@ -10,6 +10,8 @@ O sistema *Kanban* é operado com o uso de cartões coloridos (o famoso *post-it
 
 O quadro é divido em colunas verticais que indicam a atual situação do produto, por exemplo se ele está pendente, em desenvolvimento, finalizado ou até abandonado.
 
+![Exemplo](https://arquivo.devmedia.com.br/artigos/Rafael_Buck/image1.png)
+
 Os cartões indicam o produto que está sendo desenvolvido e são presos no quadro sendo classificados por de acordo com sua prioridade (de cima para baixo), o *card* possui as seguintes informações:
 
 - Nome da Tarefa
