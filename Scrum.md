@@ -28,3 +28,16 @@ Outro processo que não podemos deixar passar em branco é o _Daily Scrum_, que 
 Obs.: Tem duração maxima de 15 minutos.
 
 Nessa etapada do projeto nos perguntamos, como monitorar todas essas ações feitas no Scrum?! É usado o chamado _Burdown Chart_(Tabela Burndown), essa etapa é que popularizou de grande forma o Scrum. Ela permite que a equipe veja se os processos estão dentro do programado e mostra o que ainda falta para atender. Com isso a equipe ve se o projeto está em progresso ou terá de mudar a data estimada para sua entrega.
+
+
+<h2>Referências Blibiograficas</h2>
+
+https://www.heflo.com/pt-br/agil/tudo-sobre-scrum/
+
+https://blog.trello.com/br/scrum-metodologia-agil
+
+http://www.mindmaster.com.br/scrum/
+
+http://www.desenvolvimentoagil.com.br/scrum/
+
+https://www.significados.com.br/scrum/
